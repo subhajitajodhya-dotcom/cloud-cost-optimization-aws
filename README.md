@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ☁️ Cloud Cost Optimization on AWS
@@ -312,3 +311,4 @@ terraform destroy
 *Built with curiosity, hands-on practice and a passion for cloud engineering.*
 
 </div>
+
